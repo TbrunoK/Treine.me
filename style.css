@@ -98,11 +98,11 @@ button {
 }
 
 button:hover {
-  background: #56917b;
+  background: #396857;
 }
 
 footer {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 28px;
 
   text-align: center;
@@ -112,7 +112,7 @@ footer {
 
 footer a {
   font-weight: bold;
-  color: #1f1534;
+  color: #69b99d;
 }
 
 footer a:hover {
