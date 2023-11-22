@@ -39,12 +39,17 @@ a {
 }
 
 ul li a {
-  opacity: 0.5;
+  opacity: 0.8;
+}
+
+ul li a.training {
+  
+  color: #69b99d;
 }
 
 ul li a:hover {
   font-weight: bold;
-  opacity: 1;
+  opacity: 1.0;
 }
 
 h1,
