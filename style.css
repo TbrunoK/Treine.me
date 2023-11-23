@@ -43,13 +43,12 @@ ul li a {
 }
 
 ul li a.training {
-  
-  color: #69b99d;
+  color: rgba(105, 185, 157, 0.973);
 }
 
 ul li a:hover {
   font-weight: bold;
-  opacity: 1.0;
+  opacity: 100%;
 }
 
 h1,
