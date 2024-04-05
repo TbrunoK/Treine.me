@@ -30,10 +30,6 @@ Se você deseja contribuir para o desenvolvimento do Treine.me, siga estas etapa
 - CSS
 - JavaScript
 
-## Autor
-
-Este projeto foi desenvolvido por [Seu Nome](https://github.com/seu-username).
-
 <div aling="center">
   <a href="https://tbrunok.github.io/Treine.me/">
     <img src="https://github.com/TbrunoK/Treine.me/blob/main/assets/Completed.png?raw=true"/>
