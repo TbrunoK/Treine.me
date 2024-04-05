@@ -28,7 +28,6 @@ Se você deseja contribuir para o desenvolvimento do Treine.me, siga estas etapa
 
 - HTML
 - CSS
-- JavaScript
 
 <div aling="center">
   <a href="https://tbrunok.github.io/Treine.me/">
